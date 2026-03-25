@@ -111,15 +111,7 @@ except ValueError as e:
 # ---------------------------------
 
 default_conversation = """
-Hi Kamlesh,
 
-Thank you for your message and for sharing the importance of aligning the project timeline with your upcoming product launch.
-
-At the moment, our team is working toward the previously agreed Monday delivery schedule.
-
-Best regards,
-Atharva
-"""
 
 placeholder_text = "Paste the client's email or your draft here..."
 
