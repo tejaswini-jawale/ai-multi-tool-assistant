@@ -111,6 +111,7 @@ except ValueError as e:
 # ---------------------------------
 
 default_conversation = """
+"""
 
 
 placeholder_text = "Paste the client's email or your draft here..."
